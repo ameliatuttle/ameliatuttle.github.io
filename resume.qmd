@@ -1,89 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Amelia Tuttle's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Amelia Tuttle
+Software Engineer Major | Member Experience Specialist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:aetuttle@byui.edu">amelia.tuttle@example.com</a>
+| <a href="https://www.linkedin.com/in/amelia-tuttle-1a0185255/">LinkedIn</a>
+| <a href="https://github.com/ameliatuttle">GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Final year Software Engineering major with a focus on full-stack development and data science.
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Full-stack web development (JavaScript, React, Node.js)
+- Software design patterns and testing
+- User experience (UX) design and research
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected 2025`
+__Brigham Young University | Idaho__, BS in Software Engineering
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Relevant coursework: Data Structures, Algorithm Design, Software Design, Web Development
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2023 - Present`
+__Member Experience Specialist__, Vasa
 
-- Fellow
+- Handle customer service questions
+- Maintain gym
 
+## Projects
 
+`2024`
+__Weather App__  
+Created a full-stack weather application using React, Node.js, and the OpenWeather API.
 
-## Awards
+`2023`
+__E-commerce Platform__  
+Developed a fully functional e-commerce platform as part of a team, focusing on product listings, shopping cart functionality, and order management.
 
-`2012`
-President, *Royal Society*, London, UK
+## Skills
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Programming Languages: JavaScript, Python, HTML/CSS, C++, C#, C
+- Frameworks: React, Node.js, Express
+- Tools: Git, VS Code, Github
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2024 -->
